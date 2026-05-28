@@ -1,0 +1,32 @@
+aid: songlink-odesli
+name: Songlink / Odesli
+description: "Get all the services on which a song is available"
+url: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Music"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Music
+  - Public APIs
+apis:
+  - name: Songlink / Odesli
+    description: "Get all the services on which a song is available"
+    humanURL: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741
+    baseURL: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741
+    tags:
+      - Music
+    properties:
+      - type: Documentation
+        url: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741
+common:
+  - type: Website
+    url: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
