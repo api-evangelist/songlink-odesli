@@ -23,6 +23,12 @@ apis:
       - type: Documentation
         url: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741
 common:
+  - type: TrustCenter
+    url: security/songlink-odesli-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/songlink-odesli-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/songlink-odesli-domain-security.yml
   - type: Website
     url: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741
   - type: PublicAPIsListing
