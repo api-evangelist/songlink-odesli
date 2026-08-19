@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/songlink-o
 name: Songlink / Odesli
 description: "Get all the services on which a song is available"
 url: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
