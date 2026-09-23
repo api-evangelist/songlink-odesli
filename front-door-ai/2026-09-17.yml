@@ -1,0 +1,26 @@
+# Front Door AI Index — songlink-odesli — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: songlink-odesli
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.notion.so
+  final_host: www.notion.com
+  ownership: inherited
+  owner: songlink-odesli
+  shares_host_with: null
+  inherited_from: www.notion.com
+  verdict: scored
+  score: null
+  host_score: 7
+  density: null
+  words: 298
+  tiers:
+    agentic: 0
+    core: 7
+    model: 0
+  ambiguous: 5
+  top_terms:
+    AI: 7
+    agent: 5
