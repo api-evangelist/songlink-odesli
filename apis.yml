@@ -39,7 +39,6 @@ apis:
   - name: Songlink / Odesli
     description: "Get all the services on which a song is available"
     humanURL: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741
-    baseURL: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741
     tags:
       - Music
     properties:
